@@ -12,6 +12,12 @@ body {
 }
 .seacrh-form-input {
   background-color: #f9f7fe;
+  border: none;
+  border-radius: 6px;
+  width: 80%;
+  font-size: 16px;
+  padding: 20px;
+}
 .search-form-button {
   background: #885df1;
   padding: 15px 20px;
